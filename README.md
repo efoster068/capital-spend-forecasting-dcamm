@@ -37,7 +37,6 @@ Existing forecasting approaches relied heavily on pre-project estimates and expe
 - Delivered an interactive dashboard to support exploration, monitoring, and oversight
 
 ## Tools Used
-- SQL (data preparation)
 - R / Python (analysis and forecasting)
 - Tableau (interactive dashboards)
 
